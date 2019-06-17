@@ -27,7 +27,7 @@
     font-size: 26px;
     color: #fff;
     text-transform: uppercase;
-        line-height: 0px;
+    line-height: 0px;
 }
 .nav1.header__nav .menu  li a{
     padding-right: 10px!important;
@@ -244,3 +244,35 @@ footer {
         font-size: 1.3em
     }
 }
+.c_btn{
+    margin-top: 8px;
+       display: block;
+    width: 100%;
+
+}
+.c_btn_bg{
+    font-size: 18px;
+    background-color: #f5af02;
+    padding: 10px 50px 10px 50px;  
+    color: #212122;
+    text-align: left;
+ 
+}
+.c_btn_bg a:hover{
+   color: #000!important;
+ 
+}
+.sp_more{
+    line-height: 42px;
+    width: 41px;
+    text-align: center;
+    display: inline-block;
+    cursor: pointer;
+    background-color: #000;
+    color: #f5af02;
+
+}
+
+
+
+
