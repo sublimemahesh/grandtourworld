@@ -39,7 +39,12 @@
     list-style: none; 
     color: #fff;
 }
-
+.header__logo3 {
+    float: right;
+    height: inherit;
+        margin-right: 15px;
+background: #fff;
+}
 
 /*footer*/
 
