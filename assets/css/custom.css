@@ -42,8 +42,8 @@
 .header__logo3 {
     float: right;
     height: inherit;
-        margin-right: 15px;
-background: #fff;
+    margin-right: 15px;
+    background: #fff;
 }
 
 /*footer*/
@@ -249,24 +249,26 @@ footer {
         font-size: 1.3em
     }
 }
-.c_btn{
+.a_btn{
     margin-top: 8px;
-       display: block;
+    display: block;
     width: 100%;
 
 }
-.c_btn_bg{
+.a_btn_bg{
     font-size: 18px;
     background-color: #f5af02;
-    padding: 10px 50px 10px 50px;  
+    padding: 7px 50px 10px 50px;
     color: #212122;
     text-align: left;
- 
 }
-.c_btn_bg a:hover{
-   color: #000!important;
- 
+.a_btn_bg:hover{
+  
+    color: #fff;
+  
 }
+
+
 .sp_more{
     line-height: 42px;
     width: 41px;
