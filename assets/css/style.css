@@ -2438,7 +2438,7 @@ form input[type="submit"]:active {
 
 .heading-title__title {
     margin: 0;
-    font-size: 34px; }
+    font-size: 40px; }
 
 .header-title--1 .heading-title__subtitle:before {
     content: '';
@@ -5871,7 +5871,7 @@ form input[type="submit"]:active {
 .textblock__title {
     margin-top: 0;
     margin-bottom: 0;
-    font-size: 30px; }
+    font-size: 40px; }
 .textblock__title ~ .textblock__content {
     margin-top: 15px; }
 
