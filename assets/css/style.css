@@ -49,8 +49,8 @@ textarea, form input[type="submit"], .comment-form label, .tab--form .tab__nav l
 .listing-single-hero .listing-single__actions li.action__share:hover {
     border-color: #fff; }
 
-code, kbd, .wil_accordion--1 .wil_accordion__header.active a:before, .wil-modal__close:hover:after, .wil-modal__close:hover:before, .listgo-btn.btn-primary, .woocommerce .btn-primary.button, form input[type="submit"], #ui-datepicker-div.wo_datepicker .ui-datepicker-calendar td .ui-state-active, .input-checkbox span:before, .input-radio span:before, .input-toggle input:checked ~ span, .input-slider.ui-slider .ui-slider-handle, .item--actions span.action-ok, .nav-filter .active, .listing__result-right a, .onads, .onclose, .listing__cat a, .listgo__rating .rating__number, .listing--box .listing__title, .listing-single .listing-single__actions .action__like.active > a, .event-item__title:after, .wil-addlisting-gallery__placeholder button:hover, .nav-links a:hover, .nav-links .current, .pagination_post a:hover, .comments__header-create, .comments__showmore:hover, .section-aaa .tb__cell, .pricing__title:after, .listgo-map .leaflet-popup-close-button:hover:before, .listgo-map .leaflet-popup-close-button:hover:after, .listgo-map__field .control-radio span:after, .notifications__more a:hover, .onsale, .woocommerce table.shop_table td.actions > .button, .woocommerce .cart-collaterals .cart_totals .button, .wil-team__preview-social a:hover, .pi_subscribe .pi-subscribe, .widget_author__link a, .aboutwidget__divider, .header-mobile__close:hover:after, .header-mobile__close:hover:before, #footer {
-    background-color: #f5af02; }
+/*code, kbd, .wil_accordion--1 .wil_accordion__header.active a:before, .wil-modal__close:hover:after, .wil-modal__close:hover:before, .listgo-btn.btn-primary, .woocommerce .btn-primary.button, form input[type="submit"], #ui-datepicker-div.wo_datepicker .ui-datepicker-calendar td .ui-state-active, .input-checkbox span:before, .input-radio span:before, .input-toggle input:checked ~ span, .input-slider.ui-slider .ui-slider-handle, .item--actions span.action-ok, .nav-filter .active, .listing__result-right a, .onads, .onclose, .listing__cat a, .listgo__rating .rating__number, .listing--box .listing__title, .listing-single .listing-single__actions .action__like.active > a, .event-item__title:after, .wil-addlisting-gallery__placeholder button:hover, .nav-links a:hover, .nav-links .current, .pagination_post a:hover, .comments__header-create, .comments__showmore:hover, .section-aaa .tb__cell, .pricing__title:after, .listgo-map .leaflet-popup-close-button:hover:before, .listgo-map .leaflet-popup-close-button:hover:after, .listgo-map__field .control-radio span:after, .notifications__more a:hover, .onsale, .woocommerce table.shop_table td.actions > .button, .woocommerce .cart-collaterals .cart_totals .button, .wil-team__preview-social a:hover, .pi_subscribe .pi-subscribe, .widget_author__link a, .aboutwidget__divider, .header-mobile__close:hover:after, .header-mobile__close:hover:before, #footer {
+    background-color: #f5af02; }*/
 
 .notifications__icon .count, .user__menu__item:hover .count {
     background-color: #e57171; }
@@ -3029,7 +3029,8 @@ form input[type="submit"]:active {
 .listings--box .wil_masonry .listing--box .listing__body {
     z-index: 1; }
 .listings--box .wil_masonry .large .listing__title, .listings--box .wil_masonry .wide .listing__title {
-    font-size: 24px; }
+    font-size: 24px; 
+    color: #fff;}
 .listings--box .wil_masonry .large .listing__cat, .listings--box .wil_masonry .wide .listing__cat {
     font-size: 16px; }
 .listings--box .wil_masonry .large .listing__author {
@@ -3042,7 +3043,7 @@ form input[type="submit"]:active {
     background: -webkit-gradient(linear, left top, left bottom, from(rgba(33, 33, 34, 0)), to(rgba(33, 33, 34, 0.5)));
     background: -webkit-linear-gradient(top, rgba(33, 33, 34, 0) 0%, rgba(33, 33, 34, 0.5) 100%);
     background: -o-linear-gradient(top, rgba(33, 33, 34, 0) 0%, rgba(33, 33, 34, 0.5) 100%);
-    background: linear-gradient(to bottom, rgba(33, 33, 34, 0) 0%, rgba(33, 33, 34, 0.5) 100%); }
+    background: linear-gradient(to bottom, rgba(33, 33, 34, 0) 0%, rgba(33, 33, 34, 0.64) 100%); }
 
 .listing--box .listing__media .ongroup {
     right: auto;
@@ -3053,12 +3054,13 @@ form input[type="submit"]:active {
 
 .listing--box .listing__header {
     position: absolute;
-    top: 30px;
+    top: 75%;
     left: 0; }
 
 .listing--box .listing__title {
-    font-size: 18px;
-    padding: 10px 15px; }
+    font-size: 24px;
+    padding: 10px 15px; 
+    color: #fff;}
 .listing--box .listing__title a:hover {
     color: inherit; }
 .listing--box .listing__title span {
@@ -8767,9 +8769,9 @@ form input[type="submit"]:active {
     height: inherit;
     display: table-cell;
     vertical-align: middle;
-   padding: 18px 18px 4px 19px;
+    padding: 18px 18px 4px 19px;
     font-size: 16px;
-    
+
     border-bottom: 1px solid transparent; }
 @media (min-width: 1400px) {
     .header__nav .menu > li > a {
