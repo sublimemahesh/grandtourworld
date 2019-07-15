@@ -626,6 +626,41 @@ footer {
     padding-right: 10px;
 }
 
+/*Start Banner*/
+.banner-title.compact {
+    padding-top: 100px;
+}
+.banner-title.compact .banner-title--content {
+    margin-bottom: 45px;
+}
+.banner-title--content {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: flex-start;
+}
+.banner-title--main {
+    flex: 1 1 100%;
+    max-width: 75%;
+}
+.banner-title--title {
+    font-size: calc(24px + 2.5vw);
+}
+.banner-title--content::after {
+    display: block;
+    content: "";
+    clear: both;
+}
+.banner-title {
+    position: relative;
+    background-color: #fbfbfb;
+    padding-left: calc(50% - 595px);
+    padding-right: calc(50% - 595px);
+    padding-top: 225px;
+    border-bottom: 1px solid #f2f2f2;
+    overflow: hidden;
+}
+/*End Banner*/
+
 /*Start Footer*/
 #footer {
     width: 100%;
@@ -661,13 +696,13 @@ footer {
     float: left;
 }
 .footer-zone .socialfooter i {
-    border: 1px solid #ff590b;
+    border: 1px solid #f5af02;
     border-radius: 1px;
     color: #fff;
     font-size: 16px;
     padding: 10px 14px;
     margin: 10px 5px 10px 0;
-    background: #ff590b;
+    background: #f5af02;
 }
 .footer-zone .socialfooter i:hover {
     background-color: transparent;
@@ -692,7 +727,7 @@ footer {
     float: right;
     width: 40px;
     height: 40px;
-    background-color: #ff590b;
+    background-color: #f5af02;
     cursor: pointer;
     border: 0;
     font-size: 0;

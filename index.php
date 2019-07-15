@@ -622,7 +622,7 @@
                         <div class="row">
                             <div class="col-md-4">
                                 <div class="world-out-there-left">
-                                    <a href=""><h1>Overnight stays on the Tour</h1></a>
+                                    <a href="hotels.php"><h1>Overnight stays on the Tour</h1></a>
                                     <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. nascetur ridiculus mus.</p>
                                     <a href="#" class="pink-btn">Show All<i class="fa fa-arrow-right icon-arrow"></i></a>
                                 </div>
@@ -650,7 +650,7 @@
                                             <div class="trip-slide-price col-md-5">
                                                 <a href=""><div class="trip-slide-text prague">Dream Route - Kandy</div></a>
                                                 <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.</p>
-                                                <a href="#" class="pink-btn" style="color: #fd1515;">View<i class="fa fa-arrow-right icon-arrow"></i></a>
+                                                <a href="#" class="pink-btn" style="color: #fd1515;">VIEW<i class="fa fa-arrow-right icon-arrow"></i></a>
                                             </div>
                                         </li>
                                         <li style="float: left; list-style: outside none none; position: relative; width: 1423px;">
@@ -660,7 +660,7 @@
                                             <div class="trip-slide-price col-md-5">
                                                 <a href=""><div class="trip-slide-text prague">Dream Route - Mirissa</div></a>
                                                 <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.</p>
-                                                <a href="#" class="pink-btn" style="color: #fd1515;">View<i class="fa fa-arrow-right icon-arrow"></i></a>
+                                                <a href="#" class="pink-btn" style="color: #fd1515;">VIEW<i class="fa fa-arrow-right icon-arrow"></i></a>
                                             </div>
                                         </li>
                                         <li style="float: left; list-style: outside none none; position: relative; width: 1423px;">
@@ -670,7 +670,7 @@
                                             <div class="trip-slide-price col-md-5">
                                                 <a href=""><div class="trip-slide-text prague">Dream Route - Ella</div></a>
                                                 <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.</p>
-                                                <a href="#" class="pink-btn" style="color: #fd1515;">View<i class="fa fa-arrow-right icon-arrow"></i></a>
+                                                <a href="#" class="pink-btn" style="color: #fd1515;">VIEW<i class="fa fa-arrow-right icon-arrow"></i></a>
                                             </div>
                                         </li>
                                         <li style="float: left; list-style: outside none none; position: relative; width: 1423px;">
@@ -680,7 +680,7 @@
                                             <div class="trip-slide-price col-md-5">
                                                 <a href=""><div class="trip-slide-text prague">Dream Route - Galle</div></a>
                                                 <p>Nestled between the Caribbean, the South Pacific, and the South Atlantic Oceans, South America is the wilder of the Americas, and a continent of superlatives...</p>
-                                                <a href="#" class="pink-btn" style="color: #fd1515;">View<i class="fa fa-arrow-right icon-arrow"></i></a>
+                                                <a href="#" class="pink-btn" style="color: #fd1515;">VIEW<i class="fa fa-arrow-right icon-arrow"></i></a>
                                             </div>
                                         </li>
                                     </ul>
@@ -1378,7 +1378,7 @@
 
                                 <div class="post__media">
                                     <div class="images">
-                                        <a href="#"><img src="assets/img/post/grid/4.jpg" alt=""></a>
+                                        <a href="#"><img src="assets/img/post/grid/1.jpg" alt=""></a>
                                     </div>
                                     <!--                                    <div class="post__date">
                                                                             <span class="day">19</span>
