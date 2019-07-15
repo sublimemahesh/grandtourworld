@@ -1285,7 +1285,7 @@
 
                                 <div class="post__media">
                                     <div class="images">
-                                        <a href="#"><img src="assets/img/post/grid/1.jpg" alt=""></a>
+                                        <a href="#"><img src="assets/img/post/grid/10.jpg" alt=""></a>
                                     </div>
                                     <!--                                    <div class="post__date">
                                                                             <span class="day">19</span>
@@ -1316,7 +1316,7 @@
 
                                 <div class="post__media">
                                     <div class="images">
-                                        <a href="#"><img src="assets/img/post/grid/2.jpg" alt=""></a>
+                                        <a href="#"><img src="assets/img/post/grid/11.jpg" alt=""></a>
                                     </div>
                                     <!--                                    <div class="post__date">
                                                                             <span class="day">19</span>
@@ -1347,7 +1347,7 @@
 
                                 <div class="post__media">
                                     <div class="images">
-                                        <a href="#"><img src="assets/img/post/grid/3.jpg" alt=""></a>
+                                        <a href="#"><img src="assets/img/post/grid/4.jpg" alt=""></a>
                                     </div>
                                     <!--                                    <div class="post__date">
                                                                             <span class="day">19</span>
@@ -1412,6 +1412,30 @@
                 </div>
                 <!-- End / Blog -->
 
+
+                <!-- Blog -->
+                <div class="section">
+
+                    <div class="container">
+
+                        <div class="planing">
+                            <a href=""><h1>Travel Planning</h1></a>
+                            <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. nascetur ridiculus mus.</p>
+                            
+                            <ul style="padding-left: 0px;">
+                                <li><i class="fa fa-minus"></i>Maps</li>
+                                <li><i class="fa fa-minus"></i>GPX data</li>
+                                <li><i class="fa fa-minus"></i>Facts</li>
+                            </ul>
+                            
+                            <a href="#" class="pink-btn">Show All<i class="fa fa-arrow-right icon-arrow"></i></a>
+                        </div>
+
+                    </div>
+
+                </div>
+                <!-- End / Blog -->
+
                 <!-- Promobox -->
                 <div class="section section-promo" style="background-color: #f5af02">
 
@@ -1464,7 +1488,7 @@
                                         <div class="listing__media">
 
                                             <a href="#">
-                                                <img src="assets/img/listing/main/a-ameon1.jpg" alt="">
+                                                <img src="assets/img/topic/tp-1.jpg" alt="">
                                             </a>
 
                                             <!--                                            <div class="listing__cat">
@@ -1557,7 +1581,7 @@
                                         <div class="listing__media">
 
                                             <a href="#">
-                                                <img src="assets/img/listing/main/8.jpg" alt="">
+                                                <img src="assets/img/topic/tp-2.jpg" alt="">
                                             </a>
 
                                             <!--                                            <div class="listing__cat">
@@ -1650,7 +1674,7 @@
                                         <div class="listing__media">
 
                                             <a href="#">
-                                                <img src="assets/img/listing/main/6.jpg" alt="">
+                                                <img src="assets/img/topic/tp-3.jpg" alt="">
                                             </a>
 
                                             <!--                                            <div class="listing__cat">
@@ -1743,7 +1767,7 @@
                                         <div class="listing__media">
 
                                             <a href="#">
-                                                <img src="assets/img/listing/main/5.jpg" alt="">
+                                                <img src="assets/img/topic/tp-4.jpg" alt="">
                                             </a>
 
                                             <!--                                            <div class="listing__cat">
@@ -1836,7 +1860,7 @@
                                         <div class="listing__media">
 
                                             <a href="#">
-                                                <img src="assets/img/listing/main/slider-2.jpg" alt="">
+                                                <img src="assets/img/topic/tp-5.jpg" alt="">
                                             </a>
 
                                             <!--                                            <div class="listing__cat">
@@ -2432,64 +2456,9 @@
 
             </section>
 
-            <footer class="flex-rw">
-
-                <ul class="footer-list-top">
-                    <li><h4 class="footer-list-header">About Grand Tours</h4></li>
-                    <li><a href='' class="generic-anchor footer-list-anchor" itemprop="significantLink">GET TO KNOW US</a></li>
-                    <li><a href='' class="generic-anchor footer-list-anchor" itemprop="significantLink">PROMOS</a></li>
-                    <li><a href='' class="generic-anchor footer-list-anchor" itemprop="significantLink">JOBS</a></li>
-
-                    <li><a href='' itemprop="significantLink" class="generic-anchor footer-list-anchor">PHOTOS</a></li>
-
-                    <li><a href='' class="generic-anchor footer-list-anchor" itemprop="significantLink">EVENTS</a></li>
-                </ul>
-                <ul class="footer-list-top">
-                    <li><h4 class="footer-list-header">More Pages</h4></li>
-
-
-                    <li><a href='' class="generic-anchor footer-list-anchor">HOME</a></li>
-                    <li><a href='' class="generic-anchor footer-list-anchor">DESTINATIONS</a></li>
-                    <li><a href='' class="generic-anchor footer-list-anchor">PUBLICATIONS</a></li>
-                    <li><a href='' class="generic-anchor footer-list-anchor">POPULAR TOURS</a></li>
-                    <li><a href='' class="generic-anchor footer-list-anchor">ROAD TRIPS</a></li>
-                </ul>
-                <ul class="footer-list-top">
-                    <li id='help'><h4 class="footer-list-header">Quick Links</h4></li>
-                    
-                    <li><a href='' class="generic-anchor footer-list-anchor" itemprop="significantLink">CONTACT</a></li>
-                    <li><a href='' class="generic-anchor footer-list-anchor" itemprop="significantLink">FAQ</a></li>
-                    <li id='find-a-store'><a href='' class="generic-anchor footer-list-anchor" itemprop="significantLink">MEDIA CORNER</a></li>
-                    <li id='user-registration'><a href='' class="generic-anchor footer-list-anchor" itemprop="significantLink">TRADE CORNER</a></li>
-                    <li id='order-tracking'><a href='' itemprop="significantLink" class="generic-anchor footer-list-anchor">ADDRESS</a></li>
-                </ul>
-                <section class="footer-social-section flex-rw">
-                    <span class="footer-social-overlap footer-social-connect">
-                        CONNECT <span class="footer-social-small">with</span> US
-                    </span>
-                    <span class="footer-social-overlap footer-social-icons-wrapper">
-                        <a href="" class="generic-anchor" target="_blank" title="Pinterest" itemprop="significantLink"><i class="fa fa-pinterest"></i></a>
-                        <a href="" class="generic-anchor" target="_blank" title="Facebook" itemprop="significantLink"><i class="fa fa-facebook"></i></a>
-                        <a href="" class="generic-anchor" target="_blank" title="Twitter" itemprop="significantLink"><i class="fa fa-twitter"></i></a>
-                        <a href="" class="generic-anchor" target="_blank" title="Instagram" itemprop="significantLink"><i class="fa fa-instagram"></i></a>
-                        <a href="" class="generic-anchor" target="_blank" title="Youtube" itemprop="significantLink"><i class="fa fa-youtube"></i></a>
-                        <a href="" class="generic-anchor" target="_blank" title="Google Plus" itemprop="significantLink"><i class="fa fa-google-plus"></i></a>
-                    </span>
-                </section>
-                <section class="footer-bottom-section flex-rw">
-                    <div class="footer-bottom-wrapper">   
-                        <i class="fa fa-copyright">
-
-                        </i> 2019 Copyright 2019
-
-                        <address class="footer-address">Design By Sublime.lk</address><span class="footer-bottom-rights"> All Rights Reserved</span>
-                    </div>
-                    <div class="footer-bottom-wrapper">
-                        <a href="" class="generic-anchor" rel="nofollow">Terms</a> | <a href="" class="generic-anchor" rel="nofollow">Privacy</a>
-                    </div>
-                </section>
-            </footer>
-
+            <?php
+            include 'footer.php';
+            ?>
 
         </div>
 
