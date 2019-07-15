@@ -622,4 +622,104 @@ footer {
 #topics.section{
     padding-bottom: 0px;
 }
+.planing i{
+    padding-right: 10px;
+}
+
+/*Start Footer*/
+#footer {
+    width: 100%;
+    background: #162021;
+    color: #fff;
+    padding-top: 80px;
+}
+.footer-bottom {
+    background: #0c1314;
+    padding: 30px 0;
+    margin-top: 80px;
+    line-height: 14px;
+}
+#footer h3 {
+    color: #fff;
+    margin-top: 0;
+    font-size: 20px;
+}
+#footer h3, .button-banner a, .price-title h3 {
+    font-weight: 600;
+}
+#footer p {
+    line-height: 30px;
+    font-family: 'Open Sans',sans-serif;
+    font-weight: 400;
+}
+.footer-zone i {
+    color: #ff590b;
+    margin-right: 10px;
+}
+.footer-zone .socialfooter {
+    margin: 0px 0 0;
+    float: left;
+}
+.footer-zone .socialfooter i {
+    border: 1px solid #ff590b;
+    border-radius: 1px;
+    color: #fff;
+    font-size: 16px;
+    padding: 10px 14px;
+    margin: 10px 5px 10px 0;
+    background: #ff590b;
+}
+.footer-zone .socialfooter i:hover {
+    background-color: transparent;
+}
+.newsletterfooter {
+    float: left;
+    width: 100%;
+    margin: 10px 0;
+    position: relative;
+}
+.newsletterfooter input[type="text"] {
+    width: 215px;
+    float: left;
+    margin: 0;
+    padding: 0 10px;
+    border: 0;
+    height: 40px;
+    background-color: #4A515B;
+    color: #fff;
+}
+.newsletterfooter input[type="submit"] {
+    float: right;
+    width: 40px;
+    height: 40px;
+    background-color: #ff590b;
+    cursor: pointer;
+    border: 0;
+    font-size: 0;
+    margin: 0;
+    padding: 0;
+    content: ">";
+    right: 30%;
+}
+.newsletterfooter i {
+    font-size: 20px;
+    margin: 0 auto;
+    padding: 10px 8px;
+    position: absolute;
+    text-align: center;
+}
+.payment-card {
+    text-align: right;
+}
+.payment-card i {
+    margin-left: 5px;
+}
+.fa-2x {
+    font-size: 2em;
+}
+#footer h5{
+    color: #fff;
+}
+/*End Footer*/
+
 /*End Style*/
