@@ -21,10 +21,11 @@
         <link rel="stylesheet" type="text/css" href="assets/css/lib/perfect-scrollbar.min.css">
         <link rel="stylesheet" type="text/css" href="assets/css/lib/select2.min.css">
         <link href="assets/css/custom.css" rel="stylesheet" type="text/css"/>
-    <link href="assets/css/components.css" rel="stylesheet" type="text/css"/>
+        <link href="assets/css/components.css" rel="stylesheet" type="text/css"/>
         <link href="assets/css/color.css" rel="stylesheet" type="text/css"/>
         <!-- PAGE STYLE -->
         <link rel="stylesheet" type="text/css" href="assets/css/style.css">
+       
 
     </head>
     <body>
@@ -273,7 +274,7 @@
 
                 </div>
                 <div class="container">
-                   <div class="row ">
+                    <div class="row ">
 
                         <div class="col-md-7" >
                             <!--<div class="textblock">-->
@@ -552,10 +553,10 @@
                                 </g>
                                 </svg>
                             </div>
-                            <div style="text-align: center">
-                                  <a href="tour-result.html" class="btn btn-maincolor" style="">History of Sri Lanka</a>
-                            </div>
-                          
+                            <!--                            <div style="text-align: center">
+                                                            <a href="tour-result.html" class="btn btn-maincolor" style="">History of Sri Lanka</a>
+                                                        </div>-->
+
 
                         </div>
                         <div class="col-md-5">  
@@ -586,15 +587,44 @@
                                 <div class="a_btn">
                                     <span class="sp_more">+</span>   <a href="" class="a_btn_bg">Heritage</a>  
                                 </div>
-<button type="submit" data-hover="GETTING AROUND" class="btn btn-slide" style="margin-top: 155px;">
+                                <!--                                <button type="submit" data-hover="GETTING AROUND" class="btn btn-slide" style="margin-top: 155px;">
                                                                     <span class="text">GETTING AROUND</span>
                                                                     <span class="icons fa fa-long-arrow-right"></span>
-                                                                </button>
+                                                                </button>-->
                             </div>
                         </div>
                     </div>
                 </div>
+                <div class="row ">
 
+                    <div class="col-md-6">
+                        <div class="content">
+                            <a href="https://unsplash.com/photos/HkTMcmlMOUQ" target="_blank">
+                                <div class="content-overlay"></div>
+                                <img class="content-image" src="assets/img/index/history.jpg">
+                                <div class="content-details fadeIn-bottom">
+                                    <h3 class="content-title">History of Sri Lanka</h3>
+                                    <p class="content-text">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the</p>
+                                </div>
+                            </a>
+                        </div>
+
+                    </div>   
+                    <div class="col-lg-6">
+                        <div class="content">
+                            <a href="https://unsplash.com/photos/HkTMcmlMOUQ" target="_blank">
+                                <div class="content-overlay"></div>
+                                <img class="content-image" src="assets/img/index/getting.jpg">
+                                <div class="content-details fadeIn-bottom">
+                                    <h3 class="content-title">Getting Around</h3>
+                                    <p class="content-text">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the</p>
+                                </div>
+                            </a>
+                        </div>
+
+                    </div>
+
+                </div>
 
 
                 <!-- Events -->
@@ -660,7 +690,7 @@
                                             <a href="">
                                                 <img src="assets/img/events/event2.jpg" alt=""><div class="cover-slide-trip"></div>
                                             </a>
-                                            
+
                                             <div class="trip-slide-price col-md-5">
                                                 <a href=""><div class="trip-slide-text prague">Dream Route - Kandy</div></a>
                                                 <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.</p>
@@ -1435,13 +1465,13 @@
                         <div class="planing">
                             <a href=""><h1>Travel Planning</h1></a>
                             <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. nascetur ridiculus mus.</p>
-                            
+
                             <ul style="padding-left: 0px;">
                                 <li><i class="fa fa-minus"></i>Maps</li>
                                 <li><i class="fa fa-minus"></i>GPX data</li>
                                 <li><i class="fa fa-minus"></i>Facts</li>
                             </ul>
-                            
+
                             <a href="#" class="pink-btn">Show All<i class="fa fa-arrow-right icon-arrow"></i></a>
                         </div>
 
