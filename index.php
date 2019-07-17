@@ -21,7 +21,8 @@
         <link rel="stylesheet" type="text/css" href="assets/css/lib/perfect-scrollbar.min.css">
         <link rel="stylesheet" type="text/css" href="assets/css/lib/select2.min.css">
         <link href="assets/css/custom.css" rel="stylesheet" type="text/css"/>
-
+    <link href="assets/css/components.css" rel="stylesheet" type="text/css"/>
+        <link href="assets/css/color.css" rel="stylesheet" type="text/css"/>
         <!-- PAGE STYLE -->
         <link rel="stylesheet" type="text/css" href="assets/css/style.css">
 
@@ -272,49 +273,23 @@
 
                 </div>
                 <div class="container">
-                    <div class="row ">
-                        <div class="col-md-4">  
-                            <div class="textblock">
-                                <h2 class="textblock__title">Grand Tour World</h2>
-                                <h4 class="heading-title__subtitle">We may see any GRAND TOUR rather differently</h4>
+                   <div class="row ">
 
-                            </div>
-                            <div class="a_btn">
-                                <span class="sp_more">+</span>   <a href="" class="a_btn_bg">  Things to do</a>  
-                            </div>
-                            <div class="a_btn">
-                                <span class="sp_more">+</span>  <a href="" class="a_btn_bg">Beaches</a>   
-                            </div>
-                            <div class="a_btn">
-                                <span class="sp_more">+</span>     <a href="" class="a_btn_bg">National Parks</a>  
-                            </div>
-                            <div class="a_btn">
-                                <span class="sp_more">+</span>   <a href="" class="a_btn_bg">Monastery and Temple</a> 
-                            </div>
-                            <div class="a_btn">
-                                <span class="sp_more">+</span>    <a href="" class="a_btn_bg">Animal Life</a> 
-                            </div>
-                            <div class="a_btn">
-                                <span class="sp_more">+</span> <a href="" class="a_btn_bg">Bird Life</a>   
-                            </div>
-                            <div class="a_btn">
-                                <span class="sp_more">+</span>  <a href="" class="a_btn_bg">Adventure</a> 
-                            </div>
-                            <div class="a_btn">
-                                <span class="sp_more">+</span>   <a href="" class="a_btn_bg">Heritage</a>  
-                            </div>
+                        <div class="col-md-7" >
+                            <!--<div class="textblock">-->
+                            <!--    <h2 class="textblock__title">Grand Tour World</h2>-->
+                            <!--    <h4 class="heading-title__subtitle">We may see any GRAND TOUR rather differently</h4>-->
 
-                        </div>
-                        <div class="col-md-8" >
+                            <!--</div>-->
                             <!--                            <div class="wil-image" style="text-align: center;margin-bottom: 50px;">
                                                             <img src="assets/img/sri-lanka-tourist-map.jpg" alt="">
                                                         </div>-->
                             <div>
                                 <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-                                     viewBox="0 0 800 600" style="enable-background:new 0 0 800 600;" xml:space="preserve">
+                                     viewBox="100 0 800 600" style="enable-background:new 0 0 800 600;height: 650px;" xml:space="preserve">
 
                                 <style type="text/css">
-                                    .st0{fill:#fff;stroke:#000000;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;}
+                                    .st0{fill:#ebeae3;stroke:#000000;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;}
                                     .st0:hover{fill:#91A6B6;}
                                     .st1{font-family:'Roboto-Regular';}
                                     .st2{font-size:14px;}
@@ -577,7 +552,45 @@
                                 </g>
                                 </svg>
                             </div>
+                            <div style="text-align: center">
+                                  <a href="tour-result.html" class="btn btn-maincolor" style="">History of Sri Lanka</a>
+                            </div>
+                          
 
+                        </div>
+                        <div class="col-md-5">  
+                            <div style="margin-top:110px;">
+
+
+                                <div class="a_btn">
+                                    <span class="sp_more">+</span>   <a href="" class="a_btn_bg">  Things to do</a>  
+                                </div>
+                                <div class="a_btn">
+                                    <span class="sp_more">+</span>  <a href="" class="a_btn_bg">Beaches</a>   
+                                </div>
+                                <div class="a_btn">
+                                    <span class="sp_more">+</span>     <a href="" class="a_btn_bg">National Parks</a>  
+                                </div>
+                                <div class="a_btn">
+                                    <span class="sp_more">+</span>   <a href="" class="a_btn_bg">Monastery and Temple</a> 
+                                </div>
+                                <div class="a_btn">
+                                    <span class="sp_more">+</span>    <a href="" class="a_btn_bg">Animal Life</a> 
+                                </div>
+                                <div class="a_btn">
+                                    <span class="sp_more">+</span> <a href="" class="a_btn_bg">Bird Life</a>   
+                                </div>
+                                <div class="a_btn">
+                                    <span class="sp_more">+</span>  <a href="" class="a_btn_bg">Adventure</a> 
+                                </div>
+                                <div class="a_btn">
+                                    <span class="sp_more">+</span>   <a href="" class="a_btn_bg">Heritage</a>  
+                                </div>
+<button type="submit" data-hover="GETTING AROUND" class="btn btn-slide" style="margin-top: 155px;">
+                                                                    <span class="text">GETTING AROUND</span>
+                                                                    <span class="icons fa fa-long-arrow-right"></span>
+                                                                </button>
+                            </div>
                         </div>
                     </div>
                 </div>
@@ -624,7 +637,7 @@
                                 <div class="world-out-there-left">
                                     <a href="hotels.php"><h1>Overnight stays on the Tour</h1></a>
                                     <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. nascetur ridiculus mus.</p>
-                                    <a href="#" class="pink-btn">Show All<i class="fa fa-arrow-right icon-arrow"></i></a>
+                                    <a href="hotels.php" class="pink-btn">Show All<i class="fa fa-arrow-right icon-arrow"></i></a>
                                 </div>
                             </div>
                             <div class="col-md-8">
@@ -647,6 +660,7 @@
                                             <a href="">
                                                 <img src="assets/img/events/event2.jpg" alt=""><div class="cover-slide-trip"></div>
                                             </a>
+                                            
                                             <div class="trip-slide-price col-md-5">
                                                 <a href=""><div class="trip-slide-text prague">Dream Route - Kandy</div></a>
                                                 <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.</p>
