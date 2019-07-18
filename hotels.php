@@ -24,88 +24,7 @@
 
         <!-- PAGE STYLE -->
         <link rel="stylesheet" type="text/css" href="assets/css/style.css">
-        <style>
-            /*            @media screen and (min-width:1001px) and (max-height:800px){.Header--nav{height:80px;line-height:80px;}}
-                        .Header--nav {
-                            font-weight: 500;
-                            display: flex;
-                            position: relative;
-                            z-index: 9999;
-                            height: 90px;
-                            line-height: 90px;
-                            background: #fff;
-                            white-space: nowrap;
-                            box-shadow: 0 1px 35px rgba(0,0,0,.05);
-            
-                        }
-                        
-                        @media screen and (min-width:1001px) and (max-height:800px){.HeaderLogo{height:80px;width:80px;min-width:0;min-height:0}}
-            
-                        .Header--nav > * {
-            
-                            float: left;
-                            height: 100%;
-                            flex: 0 0 auto;
-            
-                        }
-            
-                        .Header .Header--navLeft, .Header .HeaderLogo {
-            
-                            transition: -webkit-transform .3s cubic-bezier(.165,.84,.44,1) .1s;
-                            transition: transform .3s cubic-bezier(.165,.84,.44,1) .1s;
-                            transition: transform .3s cubic-bezier(.165,.84,.44,1) .1s,-webkit-transform .3s cubic-bezier(.165,.84,.44,1) .1s;
-                            -webkit-transform-origin: 0 0;
-                            transform-origin: 0 0;
-            
-                        }
-                        .visuallyhidden {
-            
-                position: absolute !important;
-                clip: rect(1px,1px,1px,1px) !important;
-                overflow: hidden;
-                width: 1px;
-                height: 1px;
-            
-            }*/
 
-            ul {
-                list-style-type: none;
-                margin: 0;
-                padding: 0;
-                overflow: hidden;
-                /*  border: 1px solid #e7e7e7;
-                  background-color: #f3f3f3;*/
-            }
-
-            li {
-                float: left;
-            }
-
-            li a {
-                display: block;
-                color: #00060794;
-                text-align: center;
-                padding: 26px 25px;
-                text-decoration: none;
-                font-size: 17px;
-                font-weight: 600;
-            }
-
-            .right li a{
-                display: block;
-                color: #00060794;
-                text-align: center;
-                padding: 26px 13px;
-                text-decoration: none;
-                font-size: 15px;
-                font-weight: 600;
-            }
-            li a.active {
-                /*  color: white;
-                  background-color: #4CAF50;*/
-            }
-
-        </style>
     </head>
     <body>
 
@@ -196,34 +115,9 @@
 
         <div id="wrap-page">
 
-            <header id="header1" class="header1 row" data-break-mobile="1400" style="height: 80px;width: 100%">
-                <div class="col-md-9">
-                    <div class="header__logo ">
-                        <a href="#">
-                            <img src="assets/img/header/flag1.png" alt="">
-                        </a>
-                    </div>
-                    <ul>
-                        <li><a href="#destinations">Destinations</a></li>
-                        <li><a href="#experiences">Experiences</a></li>
-                        <li><a href="#accommodation">Accommodation</a></li>
-                        <li><a href="#planning">Planning</a></li>
-                        <li style="border-left: 1px solid #f0f0f0;"><a href="#search"><i class="fa fa-search" style="margin-right: 10px;font-size: 16px;"></i>Search</a></li>
-                    </ul>
-                </div>
-
-                <div class="col-md-3 right">
-                    <ul>
-                        <li><a href="#destinations">Meetings</a></li>
-                        <li><a href="#experiences"><i class="fa fa-globe" style="margin-right: 10px;font-size: 16px;"></i>Languages</a></li>
-
-                    </ul> 
-                </div>
-
-
-
-
-            </header>
+                <?php
+            include './header1.php';
+            ?>
 
             <section id="main">
 
