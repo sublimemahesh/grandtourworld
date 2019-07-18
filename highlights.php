@@ -234,7 +234,7 @@
                         <div class="banner-title--content">
                             <div class="banner-title--main">
                                 <h1 class="banner-title--title">
-                                    Overnight stays on the Tour
+                                   Grand Tour Highlights
                                 </h1>
                             </div>
                         </div>
@@ -260,14 +260,14 @@
                                             <div class="listing__media">
 
                                                 <a href="#">
-                                                    <img src="assets/img/hotels/1.jpg" alt="">
+                                                    <img src="assets/img/highlights/sigiriya.jpg" alt="">
                                                 </a>
 
                                             </div>
 
                                             <div class="listing__body">
 
-                                                <h3 class="listing__title"><a href="#">Hotel Taj Samudra </a></h3>
+                                                <h3 class="listing__title"><a href="#">Sigiriya </a></h3>
 
                                                 <div class="listgo__rating">
                                                     <span class="rating__number">4.0</span>
@@ -289,7 +289,7 @@
                                                     <div class="tb">
 
                                                         <div class="tb__cell cell-large">
-                                                            <a href="https://www.tajhotels.com/en-in/taj/taj-samudra-colombo/?utm_source=Google&utm_medium=Local&utm_campaign=Taj-Samudra">View detail</a>
+                                                            <a href="#">View detail</a>
                                                         </div>
 
                                                         <div class="tb__cell">
@@ -327,14 +327,14 @@
                                             <div class="listing__media">
 
                                                 <a href="#">
-                                                    <img src="assets/img/hotels/2.jpg" alt="">
+                                                    <img src="assets/img/highlights/9arch.jpg" alt="">
                                                 </a>
 
                                             </div>
 
                                             <div class="listing__body">
 
-                                                <h3 class="listing__title"><a href="#">Paradise Road Tintagel</a></h3>
+                                                <h3 class="listing__title"><a href="#">Nine Arch</a></h3>
 
                                                 <div class="listgo__rating">
                                                     <span class="rating__number">4.0</span>
@@ -356,7 +356,7 @@
                                                     <div class="tb">
 
                                                         <div class="tb__cell cell-large">
-                                                            <a href="http://www.paradiseroadhotels.com/tintagel/">View detail</a>
+                                                            <a href="#">View detail</a>
                                                         </div>
 
                                                         <div class="tb__cell">
@@ -394,14 +394,14 @@
                                             <div class="listing__media">
 
                                                 <a href="#">
-                                                    <img src="assets/img/hotels/3.jpg" alt="">
+                                                    <img src="assets/img/highlights/kandy.jpg" alt="">
                                                 </a>
 
                                             </div>
 
                                             <div class="listing__body">
 
-                                                <h3 class="listing__title"><a href="#">Cinnamon Grand</a></h3>
+                                                <h3 class="listing__title"><a href="#">Kandy Temple</a></h3>
 
                                                 <div class="listgo__rating">
                                                     <span class="rating__number">4.0</span>
@@ -423,7 +423,7 @@
                                                     <div class="tb">
 
                                                         <div class="tb__cell cell-large">
-                                                            <a href="https://www.cinnamonhotels.com/cinnamongrandcolombo">View detail</a>
+                                                            <a href="#">View detail</a>
                                                         </div>
 
                                                         <div class="tb__cell">
@@ -461,14 +461,14 @@
                                             <div class="listing__media">
 
                                                 <a href="#">
-                                                    <img src="assets/img/hotels/4.jpg" alt="">
+                                                    <img src="assets/img/highlights/Galle-Fort-Clock-Tower.jpg" alt="">
                                                 </a>
 
                                             </div>
 
                                             <div class="listing__body">
 
-                                                <h3 class="listing__title"><a href="#">Movenpick</a></h3>
+                                                <h3 class="listing__title"><a href="#">Galle Fort</a></h3>
 
                                                 <div class="listgo__rating">
                                                     <span class="rating__number">4.0</span>
@@ -490,7 +490,7 @@
                                                     <div class="tb">
 
                                                         <div class="tb__cell cell-large">
-                                                            <a href="https://www.movenpick.com/en/asia/sri-lanka/colombo/movenpick-hotel-colombo/overview/?utm_source=google&utm_medium=local&utm_campaign=Glocal+colombo">View detail</a>
+                                                            <a href="">View detail</a>
                                                         </div>
 
                                                         <div class="tb__cell">
@@ -528,14 +528,14 @@
                                             <div class="listing__media">
 
                                                 <a href="#">
-                                                    <img src="assets/img/hotels/5.jpg" alt="">
+                                                    <img src="assets/img/highlights/little-adams-peak-ella.jpg" alt="">
                                                 </a>
 
                                             </div>
 
                                             <div class="listing__body">
 
-                                                <h3 class="listing__title"><a href="#">Shangri-La</a></h3>
+                                                <h3 class="listing__title"><a href="#">Little Adams Peak</a></h3>
 
                                                 <div class="listgo__rating">
                                                     <span class="rating__number">4.0</span>
@@ -557,7 +557,7 @@
                                                     <div class="tb">
 
                                                         <div class="tb__cell cell-large">
-                                                            <a href="https://www.shangri-la.com/colombo/shangrila/">View detail</a>
+                                                            <a href="#">View detail</a>
                                                         </div>
 
                                                         <div class="tb__cell">

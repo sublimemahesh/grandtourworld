@@ -628,7 +628,7 @@ footer {
 
 /*Start Banner*/
 .banner-title.compact {
-    padding-top: 100px;
+   padding-top: 70px;
 }
 .banner-title.compact .banner-title--content {
     margin-bottom: 45px;
@@ -643,7 +643,7 @@ footer {
     max-width: 75%;
 }
 .banner-title--title {
-    font-size: calc(24px + 2.5vw);
+    font-size: calc(10px + 2.5vw);
 }
 .banner-title--content::after {
     display: block;
@@ -652,7 +652,7 @@ footer {
 }
 .banner-title {
     position: relative;
-    background-color: #fbfbfb;
+    background-color: #e7e3e3;
     padding-left: calc(50% - 595px);
     padding-right: calc(50% - 595px);
     padding-top: 225px;

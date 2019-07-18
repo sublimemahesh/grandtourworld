@@ -25,7 +25,7 @@
         <link href="assets/css/color.css" rel="stylesheet" type="text/css"/>
         <!-- PAGE STYLE -->
         <link rel="stylesheet" type="text/css" href="assets/css/style.css">
-       
+
 
     </head>
     <body>
@@ -599,7 +599,7 @@
 
                     <div class="col-md-6">
                         <div class="content">
-                            <a href="https://unsplash.com/photos/HkTMcmlMOUQ" target="_blank">
+                            <a href="#" target="_blank">
                                 <div class="content-overlay"></div>
                                 <img class="content-image" src="assets/img/index/history.jpg">
                                 <div class="content-details fadeIn-bottom">
@@ -612,7 +612,7 @@
                     </div>   
                     <div class="col-lg-6">
                         <div class="content">
-                            <a href="https://unsplash.com/photos/HkTMcmlMOUQ" target="_blank">
+                            <a href="#" target="_blank">
                                 <div class="content-overlay"></div>
                                 <img class="content-image" src="assets/img/index/getting.jpg">
                                 <div class="content-details fadeIn-bottom">
@@ -633,13 +633,14 @@
                         <div class="row">
                             <div class="col-md-4">
                                 <div class="world-out-there-left">
-                                    <a href=""><h1>Grand Tour Highlights</h1></a>
-                                    <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. nascetur ridiculus mus.</p>
-                                    <a href="#" class="pink-btn">Show All<i class="fa fa-arrow-right icon-arrow"></i></a>
+                                    <a href="highlights.php"><h1>Grand Tour Highlights</h1></a>
+                                   <a href="highlights.php">  <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. nascetur ridiculus mus.</p>
+                                   </a>
+                                       <a href="highlights.php" class="pink-btn">Show All<i class="fa fa-arrow-right icon-arrow"></i></a>
                                 </div>
                             </div>
                             <div class="col-md-8">
-                                <a href=""><div class="world-out-there-right-highlight"></div></a>
+                                <a href="highlights.php"><div class="world-out-there-right-highlight"></div></a>
                             </div>
                         </div>
                     </div>
@@ -666,12 +667,13 @@
                             <div class="col-md-4">
                                 <div class="world-out-there-left">
                                     <a href="hotels.php"><h1>Overnight stays on the Tour</h1></a>
-                                    <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. nascetur ridiculus mus.</p>
-                                    <a href="hotels.php" class="pink-btn">Show All<i class="fa fa-arrow-right icon-arrow"></i></a>
+                                   <a href="hotels.php"> <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. nascetur ridiculus mus.</p>
+                                   </a>
+                                       <a href="hotels.php" class="pink-btn">Show All<i class="fa fa-arrow-right icon-arrow"></i></a>
                                 </div>
                             </div>
                             <div class="col-md-8">
-                                <a href=""><div class="world-out-there-right-accomo"></div></a>
+                                <a href="hotels.php"><div class="world-out-there-right-accomo"></div></a>
                             </div>
                         </div>
                     </div>
