@@ -300,12 +300,6 @@
 
                                                         <div class="tb__cell">
                                                             <a href="#" data-tooltip="Find Your Way">
-                                                                <i class="arrow_left-right_alt"></i>
-                                                            </a> 
-                                                        </div>
-
-                                                        <div class="tb__cell">
-                                                            <a href="#" data-tooltip="Find Your Way">
                                                                 <i class="icon_heart_alt"></i>
                                                             </a> 
                                                         </div>
@@ -363,12 +357,6 @@
                                                             <a href="#" data-tooltip="Find Your Way">
                                                                 <i class="icon_pin_alt"></i>
                                                             </a>
-                                                        </div>
-
-                                                        <div class="tb__cell">
-                                                            <a href="#" data-tooltip="Find Your Way">
-                                                                <i class="arrow_left-right_alt"></i>
-                                                            </a> 
                                                         </div>
 
                                                         <div class="tb__cell">
@@ -434,12 +422,6 @@
 
                                                         <div class="tb__cell">
                                                             <a href="#" data-tooltip="Find Your Way">
-                                                                <i class="arrow_left-right_alt"></i>
-                                                            </a> 
-                                                        </div>
-
-                                                        <div class="tb__cell">
-                                                            <a href="#" data-tooltip="Find Your Way">
                                                                 <i class="icon_heart_alt"></i>
                                                             </a> 
                                                         </div>
@@ -501,12 +483,6 @@
 
                                                         <div class="tb__cell">
                                                             <a href="#" data-tooltip="Find Your Way">
-                                                                <i class="arrow_left-right_alt"></i>
-                                                            </a> 
-                                                        </div>
-
-                                                        <div class="tb__cell">
-                                                            <a href="#" data-tooltip="Find Your Way">
                                                                 <i class="icon_heart_alt"></i>
                                                             </a> 
                                                         </div>
@@ -564,12 +540,6 @@
                                                             <a href="#" data-tooltip="Find Your Way">
                                                                 <i class="icon_pin_alt"></i>
                                                             </a>
-                                                        </div>
-
-                                                        <div class="tb__cell">
-                                                            <a href="#" data-tooltip="Find Your Way">
-                                                                <i class="arrow_left-right_alt"></i>
-                                                            </a> 
                                                         </div>
 
                                                         <div class="tb__cell">
