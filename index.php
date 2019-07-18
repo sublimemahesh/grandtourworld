@@ -649,13 +649,13 @@
                     <div class="">
                         <div class="row">
                             <div class="col-md-8">
-                                <a href=""><div class="world-out-there-right-regional"></div></a>
+                                <a href="regional-tours.php"><div class="world-out-there-right-regional"></div></a>
                             </div>
                             <div class="col-md-4">
                                 <div class="world-out-there-left-1">
-                                    <a href=""><h1>Regional Tours</h1></a>
-                                    <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. nascetur ridiculus mus.</p>
-                                    <a href="#" class="pink-btn">Show All<i class="fa fa-arrow-right icon-arrow"></i></a>
+                                    <a href="regional-tours.php"><h1>Regional Tours</h1></a>
+                                    <a href="regional-tours.php"><p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. nascetur ridiculus mus.</p></a>
+                                    <a href="regional-tours.php" class="pink-btn">Show All<i class="fa fa-arrow-right icon-arrow"></i></a>
                                 </div>
                             </div>
                         </div>
